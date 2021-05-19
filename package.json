@@ -8,6 +8,7 @@
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
     "axios": "^0.21.1",
+    "express": "^4.17.1",
     "react": "^17.0.1",
     "react-chat-engine": "^1.5.7",
     "react-dom": "^17.0.1",
@@ -48,5 +49,17 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "patch-package": "^6.2.2",
     "postinstall-postinstall": "^2.1.0"
-  }
+  },
+  "description": "Chat Application",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devansh-Singh-Parmar/Chat-App.git"
+  },
+  "author": "Devansh Singh Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devansh-Singh-Parmar/Chat-App/issues"
+  },
+  "homepage": "https://github.com/Devansh-Singh-Parmar/Chat-App#readme"
 }
